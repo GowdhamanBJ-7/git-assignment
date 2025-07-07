@@ -1,2 +1,6 @@
 "this is a new feature"
+<<<<<<< HEAD
 "Line from main branch" 
+=======
+"question 3 text file"
+>>>>>>> 727cb68 (feature.txt file addition)
